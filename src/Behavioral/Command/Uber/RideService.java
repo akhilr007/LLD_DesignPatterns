@@ -1,4 +1,4 @@
-package Behavioral.State.Uber;
+package Behavioral.Command.Uber;
 
 // receiver
 public class RideService {

@@ -1,4 +1,4 @@
-package Behavioral.State.TextEditor;
+package Behavioral.Command.TextEditor;
 
 
 // concrete command

@@ -1,4 +1,4 @@
-package Behavioral.State.TextEditor;
+package Behavioral.Command.TextEditor;
 
 // receiver - performing the operation
 public class Document {

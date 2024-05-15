@@ -1,4 +1,4 @@
-package Behavioral.State.TextEditor;
+package Behavioral.Command.TextEditor;
 
 import java.util.ArrayList;
 import java.util.List;
