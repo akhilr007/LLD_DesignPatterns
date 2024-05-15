@@ -10,6 +10,7 @@ public class SupportTicketClient {
 
         frontLine.setNextHandler(technical);
         technical.setNextHandler(management);
+        management.setNextHandler(null);
 
         SupportTicket ticket1 = new SupportTicket("Password reset", 1);
         SupportTicket ticket2 = new SupportTicket("Software installation", 2);
