@@ -8,7 +8,7 @@ public abstract class OrderProcessingTemplate {
         trackOrder();
     }
 
-    abstract void verifyOrder();
-    abstract void assignDeliveryAgent();
-    abstract void trackOrder();
+    protected abstract void verifyOrder();
+    protected abstract void assignDeliveryAgent();
+    protected abstract void trackOrder();
 }
