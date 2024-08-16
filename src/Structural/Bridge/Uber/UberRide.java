@@ -1,7 +1,7 @@
-package Structural.Bridge;
+package Structural.Bridge.Uber;
 
 // concrete abstraction layer : UberRide
-public class UberRide implements NavigationSystem{
+public class UberRide implements NavigationSystem {
 
     private String driverName;
     private NavigationImpl navigationImpl;

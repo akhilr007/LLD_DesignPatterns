@@ -1,4 +1,4 @@
-package Structural.Bridge;
+package Structural.Bridge.Uber;
 
 // implementation layer
 public interface NavigationImpl {

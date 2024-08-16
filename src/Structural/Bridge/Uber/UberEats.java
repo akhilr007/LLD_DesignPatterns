@@ -1,7 +1,7 @@
-package Structural.Bridge;
+package Structural.Bridge.Uber;
 
 // concrete abstraction - Uber Eats
-public class UberEats implements NavigationSystem{
+public class UberEats implements NavigationSystem {
 
     private String restaurantName;
     private NavigationImpl navigationImpl;

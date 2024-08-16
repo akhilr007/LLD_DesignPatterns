@@ -1,4 +1,4 @@
-package Structural.Bridge;
+package Structural.Bridge.Uber;
 
 public class Client {
 

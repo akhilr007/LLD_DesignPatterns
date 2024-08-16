@@ -1,6 +1,7 @@
-package Structural.Bridge;
+package Structural.Bridge.Uber;
 
-public class AppleMap implements NavigationImpl{
+// concrete implementation
+public class AppleMap implements NavigationImpl {
 
     @Override
     public void navigateTo(String destination) {

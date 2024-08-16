@@ -1,6 +1,7 @@
-package Structural.Bridge;
+package Structural.Bridge.Uber;
 
-public class GoogleMap implements NavigationImpl{
+// concrete implementation
+public class GoogleMap implements NavigationImpl {
 
     @Override
     public void navigateTo(String destination) {
